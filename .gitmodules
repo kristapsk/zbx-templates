@@ -1,0 +1,15 @@
+[submodule "zbx-bitcoin-active"]
+	path = zbx-bitcoin-active
+	url = https://github.com/kristapsk/zbx-bitcoin-active.git
+[submodule "zbx-electrum"]
+	path = zbx-electrum
+	url = https://github.com/kristapsk/zbx-electrum.git
+[submodule "zbx-openclaw"]
+	path = zbx-openclaw
+	url = https://github.com/kristapsk/zbx-openclaw.git
+[submodule "zbx-stratum"]
+	path = zbx-stratum
+	url = https://github.com/powerminingio/zbx-stratum.git
+[submodule "zbx-public-pool"]
+	path = zbx-public-pool
+	url = https://github.com/powerminingio/zbx-public-pool.git

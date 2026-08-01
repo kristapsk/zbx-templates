@@ -13,3 +13,6 @@
 [submodule "zbx-public-pool"]
 	path = zbx-public-pool
 	url = https://github.com/powerminingio/zbx-public-pool.git
+[submodule "zbx-nostr-relay-monitoring"]
+	path = zbx-nostr-relay-monitoring
+	url = https://github.com/kristapsk/zbx-nostr-relay-monitoring.git

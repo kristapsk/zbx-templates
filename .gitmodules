@@ -16,3 +16,6 @@
 [submodule "zbx-nostr-relay-monitoring"]
 	path = zbx-nostr-relay-monitoring
 	url = https://github.com/kristapsk/zbx-nostr-relay-monitoring.git
+[submodule "zbx-nordpool-didnt-work"]
+	path = zbx-nordpool-didnt-work
+	url = https://github.com/kristapsk/zbx-nordpool-didnt-work.git

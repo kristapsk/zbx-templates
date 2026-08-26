@@ -19,3 +19,6 @@
 [submodule "zbx-nordpool-didnt-work"]
 	path = zbx-nordpool-didnt-work
 	url = https://github.com/kristapsk/zbx-nordpool-didnt-work.git
+[submodule "zbx-public-pool-vs-bitcoind"]
+	path = zbx-public-pool-vs-bitcoind
+	url = https://github.com/powerminingio/zbx-public-pool-vs-bitcoind.git

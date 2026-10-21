@@ -22,3 +22,6 @@
 [submodule "zbx-public-pool-vs-bitcoind"]
 	path = zbx-public-pool-vs-bitcoind
 	url = https://github.com/powerminingio/zbx-public-pool-vs-bitcoind.git
+[submodule "zbx-tor"]
+	path = zbx-tor
+	url = https://github.com/kristapsk/zbx-tor.git
